@@ -151,8 +151,6 @@ Verified:
 
 ## ⏱️ Timing Result
 
-![Timing](results/images/timing.png)
-
 ---
 
 ## 📊 Results
